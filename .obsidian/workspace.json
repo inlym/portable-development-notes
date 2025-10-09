@@ -11,10 +11,14 @@
             "id": "bb4b0d99ed60026a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI 编程/常用提示词.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "常用提示词"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AI 编程/常用提示词.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "常用提示词 的大纲"
             }
           },
           {
@@ -170,16 +175,15 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "bb4b0d99ed60026a",
   "lastOpenFiles": [
+    "README.md",
     "AI 编程/常用提示词.md",
     "环境配置/开发机.md",
     "AI 编程",
-    "README.md",
     "云资源/阿里云.md",
     "云资源"
   ]
