@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dda17725d91fca94",
+        "id": "06210d7b1b9f36f1",
         "type": "tabs",
         "children": [
           {
-            "id": "bb4b0d99ed60026a",
+            "id": "3646b2b54c98cd0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,10 +178,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bb4b0d99ed60026a",
+  "active": "3646b2b54c98cd0c",
   "lastOpenFiles": [
-    "README.md",
+    "Linux 命令/find.md",
+    "Linux 命令/README.md",
     "AI 编程/常用提示词.md",
+    "README.md",
     "环境配置/开发机.md",
     "AI 编程",
     "云资源/阿里云.md",
