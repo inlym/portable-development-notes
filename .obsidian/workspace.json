@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec14dcd124dd71dd",
+        "id": "dda17725d91fca94",
         "type": "tabs",
         "children": [
           {
-            "id": "dff7efb37bdbf245",
+            "id": "bb4b0d99ed60026a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "云资源/阿里云.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "阿里云"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,23 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
-            }
-          },
-          {
-            "id": "910965e91f8cacd5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "大纲"
             }
           },
           {
@@ -176,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,18 +170,15 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:管理工作区布局": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dff7efb37bdbf245",
+  "active": "bb4b0d99ed60026a",
   "lastOpenFiles": [
+    "AI 编程/常用提示词.md",
+    "环境配置/开发机.md",
+    "AI 编程",
     "README.md",
     "云资源/阿里云.md",
     "云资源"
