@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI 编程/常用提示词.md",
+                "file": "Linux 命令/find.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "常用提示词"
+              "title": "find"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI 编程/常用提示词.md",
+                "file": "Linux 命令/find.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用提示词 的大纲"
+              "title": "find 的大纲"
             }
           },
           {
@@ -180,9 +180,9 @@
   },
   "active": "3646b2b54c98cd0c",
   "lastOpenFiles": [
+    "AI 编程/常用提示词.md",
     "Linux 命令/find.md",
     "Linux 命令/README.md",
-    "AI 编程/常用提示词.md",
     "README.md",
     "环境配置/开发机.md",
     "AI 编程",
