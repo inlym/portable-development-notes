@@ -68,3 +68,30 @@ brew config | grep HOMEBREW_BOTTLE_DOMAIN
 | [Clash Party](https://clashparty.org/)          | `brew install --cask clash-party`   |
 | [Obsidian](https://obsidian.md/)                | `brew install --cask obsidian`      |
 | [Mac Mouse Fix](https://macmousefix.com/)       | `brew install --cask mac-mouse-fix` |
+
+## 配置环境阶段
+
+### 常规配置
+
+#### git
+
+配置全局用户信息
+
+```bash
+git config --global user.name "inlym"
+git config --global user.email "inlym@qq.com"
+```
+
+生成 SSH 密钥对
+
+```bash
+ssh-keygen -t ed25519 -C "替换为当前主机名"
+```
+
+#### npm
+
+替换为阿里源
+
+```bash
+npm config set registry=https://registry.npmmirror.com
+```
