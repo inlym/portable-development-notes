@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c97429f9c3bba8cb",
+        "id": "9b19f6828056bdd9",
         "type": "tabs",
         "children": [
           {
-            "id": "92ab25a35b164377",
+            "id": "f0fdb5027e358b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,23 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "AI 编程/常用提示词.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
-            }
-          },
-          {
-            "id": "910965e91f8cacd5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "常用提示词 的大纲"
             }
           },
           {
@@ -176,25 +166,25 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "92ab25a35b164377",
+  "active": "f0fdb5027e358b1c",
   "lastOpenFiles": [
+    "环境配置/macOS.md",
+    "AI 编程/常用提示词.md",
     "Linux 命令/find.md",
     "Linux 命令/README.md",
     "Linux 命令",
-    "AI 编程/常用提示词.md",
     "AI 编程",
     "README.md",
     "云资源/阿里云.md",
