@@ -1,4 +1,24 @@
-.DS_Store
-.obsidian/.DS_Store
-.obsidian/cache/
+# -------------------------------
+# Obsidian 配置与工作区
+# -------------------------------
 
+# workspace.json：个人工作区状态，包含打开的面板和滚动位置
+.obsidian/workspace.json
+
+# 本地临时缓存，插件临时文件
+.obsidian/plugins/*/workspace.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/temp*
+
+# -------------------------------
+# 系统生成的临时文件
+# -------------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 临时编辑文件
+~$*
