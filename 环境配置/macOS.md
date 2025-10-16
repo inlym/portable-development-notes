@@ -58,16 +58,17 @@ brew config | grep HOMEBREW_BOTTLE_DOMAIN
 
 以下是生活用途日常软件
 
-| 软件                                            | 安装命令                            |
-| ----------------------------------------------- | ----------------------------------- |
-| [微信 Mac 版](https://mac.weixin.qq.com/)       | `brew install --cask wechat`        |
-| [微信输入法](https://z.weixin.qq.com/)          | `brew install --cask wetype`        |
-| [QQ](https://im.qq.com/macqq/index.shtml)       | `brew install --cask qq`            |
-| [Snipaste](https://www.snipaste.com/)           | `brew install --cask snipaste`      |
-| [Google Chrome](https://www.google.com/chrome/) | `brew install --cask google-chrome` |
-| [Clash Party](https://clashparty.org/)          | `brew install --cask clash-party`   |
-| [Obsidian](https://obsidian.md/)                | `brew install --cask obsidian`      |
-| [Mac Mouse Fix](https://macmousefix.com/)       | `brew install --cask mac-mouse-fix` |
+| 软件                                                       | 安装命令                                 |
+| ---------------------------------------------------------- | ---------------------------------------- |
+| [微信 Mac 版](https://mac.weixin.qq.com/)                  | `brew install --cask wechat`             |
+| [微信输入法](https://z.weixin.qq.com/)                     | `brew install --cask wetype`             |
+| [QQ](https://im.qq.com/macqq/index.shtml)                  | `brew install --cask qq`                 |
+| [Snipaste](https://www.snipaste.com/)                      | `brew install --cask snipaste`           |
+| [Google Chrome](https://www.google.com/chrome/)            | `brew install --cask google-chrome`      |
+| [Clash Party](https://clashparty.org/)                     | `brew install --cask clash-party`        |
+| [Obsidian](https://obsidian.md/)                           | `brew install --cask obsidian`           |
+| [Mac Mouse Fix](https://macmousefix.com/)                  | `brew install --cask mac-mouse-fix`      |
+| [Karabiner Elements](https://karabiner-elements.pqrs.org/) | `brew install --cask karabiner-elements` |
 
 ## 配置环境阶段
 
