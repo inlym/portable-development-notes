@@ -96,3 +96,79 @@ ssh-keygen -t ed25519 -C "替换为当前主机名"
 ```bash
 npm config set registry=https://registry.npmmirror.com
 ```
+
+## 软件配置
+
+### 图形界面软件
+
+#### Karabiner-Elements
+
+在【Complex Modifications】中点击【Add your own rule】，添加以下规则：
+
+```json
+{
+    "description": "F2全选，F3复制，F4删整行，F5粘贴，F6粘贴2，F8保存",
+    "manipulators": [
+        {
+            "from": { "key_code": "f2" },
+            "to": [
+                {
+                    "key_code": "a",
+                    "modifiers": ["command"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "f3" },
+            "to": [
+                {
+                    "key_code": "c",
+                    "modifiers": ["command"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "f4" },
+            "to": [
+                {
+                    "key_code": "delete_or_backspace",
+                    "modifiers": ["command"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "f5" },
+            "to": [
+                {
+                    "key_code": "v",
+                    "modifiers": ["command"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "f6" },
+            "to": [
+                {
+                    "key_code": "v",
+                    "modifiers": ["option", "shift", "command"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "f8" },
+            "to": [
+                {
+                    "key_code": "s",
+                    "modifiers": ["command"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
+```
